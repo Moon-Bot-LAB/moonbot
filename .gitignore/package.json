@@ -1,0 +1,14 @@
+{
+  "name": "moonbot",
+  "version": "0.0.1",
+  "description": "MoonBot 100% Français Language anglais disponible sur le site moonbot.tk !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Auu The Best",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
